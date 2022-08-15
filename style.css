@@ -1,0 +1,213 @@
+body{
+    background-image: url("arkapl3.jpg");
+    background-size: cover;
+}
+
+.container{
+    width: 30%;
+    height: 600px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: auto;
+    margin-top: 100px;
+}
+
+.container img{
+    margin: auto;
+    text-align: center;
+    margin-left: 109px;
+    border-radius: 100%;
+    margin-top: 30px;
+}
+
+.container p{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.container .ozellik{
+    font-size: 15px;
+    margin-left: 15px;
+    margin-top: -20px;
+    text-align: center;
+}
+
+.container .footer{
+    font-size: 10px;
+    margin-top: 140px;
+}
+
+.container .ozellik:hover{
+    transition: 0.25s;
+    font-size: 30px;
+}
+
+@media screen and (max-width: 1143px) {
+    .container img{
+        margin: auto;
+        text-align: center;
+        margin-left: 55px;
+        border-radius: 100%;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width: 932px) {
+    .container img{
+        margin: auto;
+        text-align: center;
+        margin-left: 25px;
+        border-radius: 100%;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width: 852px) {
+    .container img{
+        margin: auto;
+        text-align: center;
+        margin-left: 15px;
+        border-radius: 100%;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width: 801px) {
+    .container img{
+        margin: auto;
+        text-align: center;
+        margin-left: 15px;
+        border-radius: 100%;
+        width: 200px;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width: 727px) {
+    .container img{
+        margin: auto;
+        text-align: center;
+        margin-left: 15px;
+        border-radius: 100%;
+        width: 180px;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width: 661px) {
+    .container img{
+        margin: auto;
+        text-align: center;
+        margin-left: 15px;
+        border-radius: 100%;
+        width: 160px;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width: 391px) {
+    .container img{
+        margin: auto;
+        text-align: center;
+        margin-left: 55px;
+        border-radius: 100%;
+        width: 160px;
+        margin-top: 30px;
+    }
+
+    .container{
+        width: 70%;
+        height: 600px;
+        background-color: black;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin: auto;
+        margin-top: 100px;
+    }
+}
+
+@media screen and (max-width: 415px) {
+    .container img{
+        margin: auto;
+        text-align: center;
+        margin-left: 58px;
+        border-radius: 100%;
+        width: 160px;
+        margin-top: 30px;
+    }
+
+    .container{
+        width: 70%;
+        height: 600px;
+        background-color: black;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin: auto;
+        margin-top: 100px;
+    }
+}
+
+@media screen and (max-width: 541px) {
+    .container img{
+        margin: auto;
+        text-align: center;
+        margin-left: 103px;
+        border-radius: 100%;
+        width: 160px;
+        margin-top: 30px;
+    }
+
+    .container{
+        width: 70%;
+        height: 600px;
+        background-color: black;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin: auto;
+        margin-top: 100px;
+    }
+}
+
+@media screen and (max-width: 281px) {
+    .container img{
+        margin: auto;
+        text-align: center;
+        margin-left: 15px;
+        border-radius: 100%;
+        width: 160px;
+        margin-top: 30px;
+    }
+
+    .container{
+        width: 70%;
+        height: 600px;
+        background-color: black;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin: auto;
+        margin-top: 100px;
+    }
+}
+
+@media screen and (max-width: 413px) {
+    .container img{
+        margin: auto;
+        text-align: center;
+        margin-left: 60px;
+        border-radius: 100%;
+        width: 160px;
+        margin-top: 30px;
+    }
+
+    .container{
+        width: 70%;
+        height: 600px;
+        background-color: black;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin: auto;
+        margin-top: 100px;
+    }
+}
